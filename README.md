@@ -41,33 +41,14 @@ technologies to meet future requirements.</br>
  📖**Bachelor's of technology-< Information Technology >**
  
   - 📍 **govt. polytechnic  dehradun, dehradun**------------------**< 2018-2020 >**\
-   📖**<Mechanical engineering>**
+   📖**< Mechanical engineering >**
  
  - 📍 **govt. inter college pantsthali, almora**------------------**< 2016-2017 >**\
-   📖**< Intermediate Science >**
+   📖**< Intermediate  >**
  
  - 📍  **govt. inter college pantsthali, almora**------------------**< 2014-2015>**\
-   📖**Secondary Schooling**
+   📖**< High school >**
  
-   
-   
-   
- ## Experience
- -  👨‍💻 **Back-end Developer**---------------------------< Internship >\
- 📆 Feb,2022 - moment\
-📍 **Youth India Foundation** - New Delhi, India
-   
- -  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
-   📆 Feb,2022 - moment\
-   📍 **GirlScript Summer of Code** - Maharashtra, India
-   
- -  👨‍💻 **Owner**------------------------------------------< Founder >\
-   📆 Oct,2020 - moment\
-   📍 **Mackph.com** - Roorkee, India
-   
- -  👨‍💻 **Internshala Student Partner (ISP 16)**-------------< Part Time >\
-   📆 Dec,2019 - Jun,2020\
-   📍 **Internshala** - Roorkee, India
 
    </details>
    
