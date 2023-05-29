@@ -33,35 +33,20 @@ I am an intermediate front-end developer.
 - ❤️ Building a community to make an impact by training new generations on cutting edge \
 technologies to meet future requirements.</br>
 
-
-### `My Reseach Interest`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283558-6c53d514-1a4a-4ad0-acd8-33d97ba5ac07.gif">:
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">
-
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
-
- ### `I am open to`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283483-1b2b2630-f02a-487b-823a-839d3739452a.gif">:
-
-
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
-
 <details>
    <summary>📃 Resume</summary>
 
  ## Education
- - 📍 **Uttarakhand Technical University**-----------------------**< 2019-2023 >**\
+ - 📍 **Uttarakhand Technical University**-----------------------**< 2021-2024>**\
  📖**Bachelor's of technology-< Information Technology >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2017-2019 >**\
-   📖**Senior Secondary Schooling-< Intermediate Science >**
+  - 📍 **govt. polytechnic  dehradun, dehradun**------------------**< 2018-2020 >**\
+   📖**<Mechanical engineering>**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2012-2017 >**\
+ - 📍 **govt. inter college pantsthali, almora**------------------**< 2016-2017 >**\
+   📖**< Intermediate Science >**
+ 
+ - 📍  **govt. inter college pantsthali, almora**------------------**< 2014-2015>**\
    📖**Secondary Schooling**
  
    
