@@ -17,20 +17,14 @@ I am a front-end developer.
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/gauravenvecc)
 
 - 🌱 I’m a final-year Computer Science student passionate about Web Development with a focus on full-stack technologies. My tech stack includes CSS, HTML, Tailwind CSS, JavaScript (React.js, Node.js, Express.js), and MongoDB.
+- 🔭 Currently exploring and mastering various aspects of web development, I'm eager to contribute to innovative projects that push the boundaries of technology.
+- 💬 Ask me about my experiences in web development, my journey in open source contributions, and my quest for internships in the tech industry.
+- 👯 I’m actively seeking collaboration on Open Source Projects. Let's work together to create impactful solutions and learn from each other.
+- 🏏 Outside of coding, you'll find me on the cricket field enjoying my favorite sport. I'm currently looking to join a company where I can apply and enhance my skills while contributing to exciting projects
+- 📫 Reach me at: gauravengg.bisht@gmail.com
+-  Fun fact: I have a love for designing and enjoy traveling to explore new places. Building a community and making a positive impact by training new generations on cutting-edge technologies is my long-term goal.
+-  ❤️ Let's connect, collaborate, and build something amazing together!
 
--🔭 Currently exploring and mastering various aspects of web development, I'm eager to contribute to innovative projects that push the boundaries of technology.
-
--💬 Ask me about my experiences in web development, my journey in open source contributions, and my quest for internships in the tech industry.
-
--👯 I’m actively seeking collaboration on Open Source Projects. Let's work together to create impactful solutions and learn from each other.
-
--🏏 Outside of coding, you'll find me on the cricket field enjoying my favorite sport. I'm currently looking to join a company where I can apply and enhance my skills while contributing to exciting projects.
-
--📫 Reach me at: gauravengg.bisht@gmail.com
-
--⚡ Fun fact: I have a love for designing and enjoy traveling to explore new places. Building a community and making a positive impact by training new generations on cutting-edge technologies is my long-term goal.
-
--❤️ Let's connect, collaborate, and build something amazing together!
 
 <details>
    <summary>📃 Resume</summary>
