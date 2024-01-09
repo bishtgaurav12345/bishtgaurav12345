@@ -25,20 +25,17 @@ I am a MERN Stack developer.
 -  Fun fact: I have a love for designing and enjoy traveling to explore new places. Building a community and making a positive impact by training new generations on cutting-edge technologies is my long-term goal.
 -  ❤️ Let's connect, collaborate, and build something amazing together!
 
-------------------------------------------------------
-                   **TECH STACK**
-------------------------------------------------------
-| 🌐 HTML              | 🎨 CSS               
-------------------------------------------------------
-| 🌀 Tailwind CSS      | ⚙️ JavaScript   
-------------------------------------------------------
-| ⚛️ React.js          | 🖥️ Node.js            
-------------------------------------------------------
-| 🚀 Express.js        | 🍃 MongoDB         
-------------------------------------------------------
-| 👾 C                 | 💻 C++                 
-------------------------------------------------------
-
+**Tech Stack:**
+- 🌐 HTML
+- 🎨 CSS
+- 🌀 Tailwind CSS
+- ⚙️ JavaScript
+- ⚛️ React.js
+- 🖥️ Node.js
+- 🚀 Express.js
+- 🍃 MongoDB
+- 👾 C
+- 💻 C++
 
 
 
