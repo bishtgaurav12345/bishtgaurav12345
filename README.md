@@ -6,7 +6,7 @@
 
 ### Hi there, I'm [Gaurav Singh](https://www.linkedin.com/in/ankush-kumar-06b22b191/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
-I am a front-end developer.
+I am a MERN Stack developer.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishtgaurav12345&label=Profile%20views&color=32CD32&style=flat" alt="bishtgaurav12345" /> </p>
