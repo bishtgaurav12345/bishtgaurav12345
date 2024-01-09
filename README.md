@@ -25,19 +25,20 @@ I am a MERN Stack developer.
 -  Fun fact: I have a love for designing and enjoy traveling to explore new places. Building a community and making a positive impact by training new generations on cutting-edge technologies is my long-term goal.
 -  ❤️ Let's connect, collaborate, and build something amazing together!
 
-**Tech Stack:**
-| Technology        | Logo                         |
-| ------------------| -----------------------------|
-| HTML              | ![HTML Logo](html_logo.png)  |
-| CSS               | ![CSS Logo](css_logo.png)    |
-| Tailwind CSS      | ![Tailwind Logo](tailwind_logo.png) |
-| JavaScript        | ![JavaScript Logo](javascript_logo.png) |
-| React.js          | ![React Logo](react_logo.png) |
-| Node.js           | ![Node.js Logo](node_logo.png) |
-| Express.js        | ![Express.js Logo](express_logo.png) |
-| MongoDB           | ![MongoDB Logo](mongodb_logo.png) |
-| C                | ![C Logo](c_logo.png)         |
-| C++              | ![C++ Logo](cpp_logo.png)     |
+-------------------------------------------------------------------------------------------------------------
+                                                                        TECH STACK
+-------------------------------------------------------------------------------------------------------------
+| ![HTML Logo](html_logo.png) , HTML             | ![CSS Logo](css_logo.png) , CSS               |
+-------------------------------------------------------------------------------------------------------------
+| ![Tailwind Logo](tailwind_logo.png) , Tailwind CSS      | ![JavaScript Logo](javascript_logo.png) , JavaScript   |
+-------------------------------------------------------------------------------------------------------------
+| ![React Logo](react_logo.png) , React.js          | ![Node.js Logo](node_logo.png) , Node.js            |
+-------------------------------------------------------------------------------------------------------------
+| ![Express.js Logo](express_logo.png) , Express.js        | ![MongoDB Logo](mongodb_logo.png) , MongoDB         |
+-------------------------------------------------------------------------------------------------------------
+| ![C Logo](c_logo.png) , C                 | ![C++ Logo](cpp_logo.png) , C++                 |
+-------------------------------------------------------------------------------------------------------------
+
 
 
 <details>
