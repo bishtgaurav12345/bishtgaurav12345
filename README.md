@@ -21,7 +21,7 @@ I am a MERN Stack developer.
 - 💬 Ask me about my experiences in web development, my journey in open source contributions, and my quest for internships in the tech industry.
 - 👯 I’m actively seeking collaboration on Open Source Projects. Let's work together to create impactful solutions and learn from each other.
 - 🏏 Outside of coding, you'll find me on the cricket field enjoying my favorite sport. I'm currently looking to join a company where I can apply and enhance my skills while contributing to exciting projects
-- 📫 Reach me at: gauravengg.bisht@gmail.com
+- 📫 Reach me at: gauravsinghcse2024@gmail.com
 -  Fun fact: I have a love for designing and enjoy traveling to explore new places. Building a community and making a positive impact by training new generations on cutting-edge technologies is my long-term goal.
 -  ❤️ Let's connect, collaborate, and build something amazing together!
 
